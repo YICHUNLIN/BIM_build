@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<platform xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="rfa">
+  <meta>
+    <searchid>70fed275-ae83-42c7-ae13-bc70d3a889e4</searchid>
+    <revit-edition>Autodesk Revit Architecture </revit-edition>
+    <revit-year>2011</revit-year>
+    <revit-publisher-version>2013</revit-publisher-version>
+    <revit-build>Autodesk+Revit+Architecture+2011+(Build%3a+20100903_2115(x64))</revit-build>
+    <revit-platform>x64</revit-platform>
+    <revit-lastsavedpath>I%3a%5cSample+Folder+Structure+For+S3%5cRFA%5cZIP%5crfa%5cNew+folder%5cAC-Unit-4_SMARTBIM.rfa</revit-lastsavedpath>
+    <revit-lastupdatedutc>9%2f5%2f2011+9%3a20%3a20+PM</revit-lastupdatedutc>
+    <revit-displayunittype>IMPERIAL</revit-displayunittype>
+    <path>C%3a%5cDropbox%5cALLFILES%5cContent%5cSmartBIM%5cAC-Unit-4_SMARTBIM.rfa</path>
+  </meta>
+  <families>
+    <family nested="false">
+      <meta>
+        <name>AC-Unit-4_SMARTBIM</name>
+        <category>Mechanical+Equipment</category>
+      </meta>
+      <types>
+        <type name="Type+1">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>D3050200</value>
+              <displayvalue>D3050200</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>HVAC+Equipment</value>
+              <displayvalue>HVAC+Equipment</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Blower</definition>
+              <value>6625</value>
+              <displayvalue>6625</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Elevation</definition>
+              <value>4%27+-+0%22</value>
+              <displayvalue>4%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>AC+Unit</definition>
+              <value>6458</value>
+              <displayvalue>6458</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>23+00+00</value>
+              <displayvalue>23+00+00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>15000</value>
+              <displayvalue>15000</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>Type+1</value>
+              <displayvalue>Type+1</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Cooling+and+Freeze+Components</value>
+              <displayvalue>Cooling+and+Freeze+Components</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.75.10.24.21</value>
+              <displayvalue>23.75.10.24.21</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+      </types>
+    </family>
+  </families>
+  <products />
+  <materials>
+    <material>
+      <meta>
+        <name>Glass</name>
+      </meta>
+      <parameters>
+        <parameter category="PG_MATERIALS" unit_type="YesNo">
+          <definition>Glow</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Smoothness</definition>
+          <value>50</value>
+          <displayvalue>50</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Shininess</definition>
+          <value>64</value>
+          <displayvalue>64</displayvalue>
+        </parameter>
+        <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+          <definition>Comments</definition>
+          <value>Rendering+appearance+not+upgraded+</value>
+          <displayvalue>Rendering+appearance+not+upgraded+</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Transparency</definition>
+          <value>75</value>
+          <displayvalue>75</displayvalue>
+        </parameter>
+      </parameters>
+    </material>
+    <material>
+      <meta>
+        <name>Ivory+Matte</name>
+      </meta>
+      <parameters>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Shininess</definition>
+          <value>128</value>
+          <displayvalue>128</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Transparency</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="YesNo">
+          <definition>Glow</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Smoothness</definition>
+          <value>50</value>
+          <displayvalue>50</displayvalue>
+        </parameter>
+      </parameters>
+    </material>
+    <material>
+      <meta>
+        <name>Texture+Metal</name>
+      </meta>
+      <parameters>
+        <parameter category="PG_MATERIALS" unit_type="YesNo">
+          <definition>Glow</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Smoothness</definition>
+          <value>50</value>
+          <displayvalue>50</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Shininess</definition>
+          <value>128</value>
+          <displayvalue>128</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Transparency</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+      </parameters>
+    </material>
+  </materials>
+</platform>

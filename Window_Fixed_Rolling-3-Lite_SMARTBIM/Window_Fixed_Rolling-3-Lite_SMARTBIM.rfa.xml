@@ -1,0 +1,2759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<platform xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="rfa">
+  <meta>
+    <searchid>f0e668c0-1acb-40e3-9c32-ada48b4e2e88</searchid>
+    <revit-edition>Autodesk Revit Architecture </revit-edition>
+    <revit-year>2011</revit-year>
+    <revit-publisher-version>2013</revit-publisher-version>
+    <revit-build>Autodesk+Revit+Architecture+2011+(Build%3a+20100903_2115(x64))</revit-build>
+    <revit-platform>x64</revit-platform>
+    <revit-lastsavedpath>I%3a%5cSample+Folder+Structure+For+S3%5cRFA%5cZIP%5crfa%5cNew+folder+-+Copy+(7)+-+Copy%5cWindow_Fixed_Rolling-3-Lite_SMARTBIM.rfa</revit-lastsavedpath>
+    <revit-lastupdatedutc>9%2f6%2f2011+8%3a18%3a54+PM</revit-lastupdatedutc>
+    <revit-displayunittype>IMPERIAL</revit-displayunittype>
+    <path>C%3a%5cDropbox%5cALLFILES%5cContent%5cSmartBIM%5cWindow_Fixed_Rolling-3-Lite_SMARTBIM.rfa</path>
+  </meta>
+  <families>
+    <family nested="false">
+      <meta>
+        <name>Window_Fixed_Rolling-3-Lite_SMARTBIM</name>
+        <category>Windows</category>
+      </meta>
+      <types>
+        <type name="96In+x+60+1%2f4In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>96In+x+60+1%2f4In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="24Inx36In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>24Inx36In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>24Inx36In</value>
+              <displayvalue>24Inx36In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="24Inx42In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>24Inx42In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>24Inx42In</value>
+              <displayvalue>24Inx42In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="24Inx54In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>24Inx54In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>24Inx54In</value>
+              <displayvalue>24Inx54In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="24Inx60In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>24Inx60In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>24Inx60In</value>
+              <displayvalue>24Inx60In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="36Inx36In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>36Inx36In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>36Inx36In</value>
+              <displayvalue>36Inx36In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="36Inx42In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>36Inx42In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>36Inx42In</value>
+              <displayvalue>36Inx42In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="36Inx54In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>36Inx54In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>36Inx54In</value>
+              <displayvalue>36Inx54In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="36Inx60In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>36Inx60In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>36Inx60In</value>
+              <displayvalue>36Inx60In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="48Inx36In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>48Inx36In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>48Inx36In</value>
+              <displayvalue>48Inx36In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="48Inx42In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>48Inx42In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>48Inx42In</value>
+              <displayvalue>48Inx42In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="48Inx54In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>48Inx54In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>48Inx54In</value>
+              <displayvalue>48Inx54In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="48Inx60In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>48Inx60In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>48Inx60In</value>
+              <displayvalue>48Inx60In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="60Inx36In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>60Inx36In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>60Inx36In</value>
+              <displayvalue>60Inx36In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="60Inx42In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>60Inx42In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>60Inx42In</value>
+              <displayvalue>60Inx42In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="60Inx54In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>60Inx54In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>60Inx54In</value>
+              <displayvalue>60Inx54In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+        <type name="60Inx60In">
+          <parameters>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Manufacturer</definition>
+              <value>SMARTBIM</value>
+              <displayvalue>SMARTBIM</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Width</definition>
+              <value>0%27+-+2+1%2f4%22</value>
+              <displayvalue>0%27+-+2+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>04+CSI</definition>
+              <value>08+50+00</value>
+              <displayvalue>08+50+00</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Interior+Sash+Width</definition>
+              <value>2%27+-+0%22</value>
+              <displayvalue>2%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8%27+-+0%22</value>
+              <displayvalue>8%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Subcategory</definition>
+              <value>Fixed</value>
+              <displayvalue>Fixed</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5%27+-+0+1%2f4%22</value>
+              <displayvalue>5%27+-+0+1%2f4%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Depth</definition>
+              <value>0%27+-+0+1%2f2%22</value>
+              <displayvalue>0%27+-+0+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Window+Frame+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="DUT_GENERAL">
+              <definition>SmartBIM+Object+Version</definition>
+              <value>3.000000</value>
+              <displayvalue>3.000000</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Exterior+Trim+Width</definition>
+              <value>0%27+-+3+1%2f2%22</value>
+              <displayvalue>0%27+-+3+1%2f2%22</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Default+Sill+Height</definition>
+              <value>3%27+-+0%22</value>
+              <displayvalue>3%27+-+0%22</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>SmartBIM+Object+Created+By</definition>
+              <value>SMARTBIM%2c+LLC</value>
+              <displayvalue>SMARTBIM%2c+LLC</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>95+CSI</definition>
+              <value>08500</value>
+              <displayvalue>08500</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Assembly+Code</definition>
+              <value>B2020100</value>
+              <displayvalue>B2020100</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>Name</definition>
+              <value>60Inx60In</value>
+              <displayvalue>96In+x+60+1%2f4In</displayvalue>
+            </parameter>
+            <parameter category="PG_MECHANICAL" unit_type="OTHER">
+              <definition>Part+Type</definition>
+              <value>-1</value>
+              <displayvalue>-1</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Shared</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Work+Plane-Based</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Cut+with+Voids+When+Loaded</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="OTHER" unit_type="YesNo">
+              <definition>Always+vertical</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Title</definition>
+              <value>Windows</value>
+              <displayvalue>Windows</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+              <definition>OmniClass+Number</definition>
+              <value>23.30.20.00</value>
+              <displayvalue>23.30.20.00</displayvalue>
+            </parameter>
+            <parameter category="PG_IDENTITY_DATA" unit_type="TEXT">
+              <definition>additional+type</definition>
+              <value>60Inx60In</value>
+              <displayvalue>60Inx60In</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+      </types>
+    </family>
+    <family nested="true">
+      <meta>
+        <name>Text+Note+1</name>
+        <category>Text+Notes</category>
+      </meta>
+      <types>
+        <type name="Text+Note+1">
+          <parameters>
+            <parameter category="PG_TEXT" unit_type="DUT_FRACTIONAL_INCHES">
+              <definition>Text+Size</definition>
+              <value>0.0208333333333333</value>
+              <displayvalue>1%2f4%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="YesNo">
+              <definition>Underline</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="DUT_FRACTIONAL_INCHES">
+              <definition>Tab+Size</definition>
+              <value>0.0416666666666667</value>
+              <displayvalue>1%2f2%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="YesNo">
+              <definition>Bold</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_GRAPHICS" unit_type="YesNo">
+              <definition>Show+Border</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="Text">
+              <definition>Text+Font</definition>
+              <value>Arial</value>
+              <displayvalue>Arial</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="DUT_GENERAL">
+              <definition>Width+Factor</definition>
+              <value>1</value>
+              <displayvalue>1.000000</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="YesNo">
+              <definition>Italic</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_GRAPHICS" unit_type="DUT_FRACTIONAL_INCHES">
+              <definition>Leader%2fBorder+Offset</definition>
+              <value>0.00666666666666667</value>
+              <displayvalue>5%2f64%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_GRAPHICS" unit_type="YesNo">
+              <definition>Keep+Readable</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+      </types>
+    </family>
+    <family nested="true">
+      <meta>
+        <name>Model+Text+1</name>
+        <category>Generic+Models</category>
+      </meta>
+      <types>
+        <type name="Model+Text+1">
+          <parameters>
+            <parameter category="PG_TEXT" unit_type="YesNo">
+              <definition>Italic</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="YesNo">
+              <definition>Bold</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="Text">
+              <definition>Text+Font</definition>
+              <value>Arial</value>
+              <displayvalue>Arial</displayvalue>
+            </parameter>
+            <parameter category="PG_TEXT" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Text+Size</definition>
+              <value>0.5</value>
+              <displayvalue>0%26%2339%3b+-+6%26quot%3b</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+      </types>
+    </family>
+    <family nested="true">
+      <meta>
+        <name>External+Frame</name>
+        <category>Generic+Models</category>
+      </meta>
+      <types>
+        <type name="External+Frame">
+          <parameters />
+        </type>
+      </types>
+    </family>
+    <family nested="true">
+      <meta>
+        <name>Interior+Sash</name>
+        <category>Generic+Models</category>
+      </meta>
+      <types>
+        <type name="Internal">
+          <parameters />
+        </type>
+        <type name="Interior">
+          <parameters />
+        </type>
+      </types>
+    </family>
+    <family nested="true">
+      <meta>
+        <name>Exterior+Sash</name>
+        <category>Generic+Models</category>
+      </meta>
+      <types>
+        <type name="Exterior">
+          <parameters />
+        </type>
+      </types>
+    </family>
+    <family nested="true">
+      <meta>
+        <name>Mullion</name>
+        <category>Generic+Models</category>
+      </meta>
+      <types>
+        <type name="Family1">
+          <parameters>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Mullion+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+      </types>
+    </family>
+    <family nested="true">
+      <meta>
+        <name>Trim_Interior_Tectonic</name>
+        <category>Generic+Models</category>
+      </meta>
+      <types>
+        <type name="38%26quot%3bx65%26quot%3b_Wood">
+          <parameters>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Trim+Depth</definition>
+              <value>0.0416666666666667</value>
+              <displayvalue>0%26%2339%3b+-+0+1%2f2%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Trim+Width</definition>
+              <value>0.1875</value>
+              <displayvalue>0%26%2339%3b+-+2+1%2f4%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Height</definition>
+              <value>5.02083333333333</value>
+              <displayvalue>5%26%2339%3b+-+0+1%2f4%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Trim+Material</definition>
+              <value>1688</value>
+              <displayvalue>1688</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>8</value>
+              <displayvalue>8%26%2339%3b+-+0%26quot%3b</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+      </types>
+    </family>
+    <family nested="true">
+      <meta>
+        <name>Basic+Wall</name>
+        <category>Walls</category>
+      </meta>
+      <types>
+        <type name="Wall+4">
+          <parameters>
+            <parameter category="PG_ANALYTICAL_PROPERTIES" unit_type="Integer">
+              <definition>Roughness</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRUCTION" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Width</definition>
+              <value>1</value>
+              <displayvalue>1%26%2339%3b+-+0%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_ANALYTICAL_PROPERTIES" unit_type="DUT_GENERAL">
+              <definition>Absorptance</definition>
+              <value>0.1</value>
+              <displayvalue>0.100000</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition>Structural+Material</definition>
+              <value>1682</value>
+              <displayvalue>1682</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="YesNo">
+              <definition>Related+to+Mass</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="YesNo">
+              <definition>Room+Bounding</definition>
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_SQUARE_FEET">
+              <definition>Area</definition>
+              <value>47.640694231379</value>
+              <displayvalue>47.64</displayvalue>
+            </parameter>
+            <parameter category="PG_STRUCTURAL" unit_type="YesNo">
+              <definition>Structural</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Length</definition>
+              <value>10</value>
+              <displayvalue>10%26%2339%3b+-+0%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="DUT_CUBIC_FEET">
+              <definition>Volume</definition>
+              <value>47.640694231379</value>
+              <displayvalue>47.64</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Top+Extension+Distance</definition>
+              <value>0</value>
+              <displayvalue>0%26%2339%3b+-+0%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="YesNo">
+              <definition>Base+is+Attached</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="YesNo">
+              <definition>Top+is+Attached</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Unconnected+Height</definition>
+              <value>8.78073608980457</value>
+              <displayvalue>8%26%2339%3b+-+9+47%2f128%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Base+Extension+Distance</definition>
+              <value>0</value>
+              <displayvalue>0%26%2339%3b+-+0%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_STRUCTURAL" unit_type="YesNo">
+              <definition>Enable+Analytical+Model</definition>
+              <value>0</value>
+              <displayvalue>0</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Base+Offset</definition>
+              <value>0</value>
+              <displayvalue>0%26%2339%3b+-+0%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_CONSTRAINTS" unit_type="DUT_FEET_FRACTIONAL_INCHES">
+              <definition>Top+Offset</definition>
+              <value>0</value>
+              <displayvalue>0%26%2339%3b+-+0%26quot%3b</displayvalue>
+            </parameter>
+            <parameter category="PG_GEOMETRY" unit_type="double">
+              <definition />
+              <value>1</value>
+              <displayvalue>1</displayvalue>
+            </parameter>
+            <parameter category="PG_MATERIALS" unit_type="Material">
+              <definition />
+              <value>1682</value>
+              <displayvalue>1682</displayvalue>
+            </parameter>
+          </parameters>
+        </type>
+      </types>
+    </family>
+  </families>
+  <products />
+  <materials>
+    <material>
+      <meta>
+        <name>Glass</name>
+      </meta>
+      <parameters>
+        <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+          <definition>Description</definition>
+          <value>Glass</value>
+          <displayvalue>Glass</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Shininess</definition>
+          <value>64</value>
+          <displayvalue>64</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Transparency</definition>
+          <value>75</value>
+          <displayvalue>75</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Smoothness</definition>
+          <value>50</value>
+          <displayvalue>50</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="YesNo">
+          <definition>Glow</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+      </parameters>
+    </material>
+    <material>
+      <meta>
+        <name>Wall+material+1</name>
+        <category>Walls</category>
+      </meta>
+      <parameters>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Shininess</definition>
+          <value>64</value>
+          <displayvalue>64</displayvalue>
+        </parameter>
+        <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+          <definition>Comments</definition>
+          <value>Rendering+appearance+not+upgraded+</value>
+          <displayvalue>Rendering+appearance+not+upgraded+</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Smoothness</definition>
+          <value>50</value>
+          <displayvalue>50</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="YesNo">
+          <definition>Glow</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Transparency</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+      </parameters>
+    </material>
+    <material>
+      <meta>
+        <name>Render+Material+255-255-255</name>
+      </meta>
+      <parameters>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Smoothness</definition>
+          <value>50</value>
+          <displayvalue>50</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Shininess</definition>
+          <value>64</value>
+          <displayvalue>64</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="YesNo">
+          <definition>Glow</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Transparency</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+          <definition>Comments</definition>
+          <value>Rendering+appearance+not+upgraded+</value>
+          <displayvalue>Rendering+appearance+not+upgraded+</displayvalue>
+        </parameter>
+      </parameters>
+    </material>
+    <material>
+      <meta>
+        <name>White+Vinyl</name>
+        <category>Generic+Models</category>
+      </meta>
+      <parameters>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Smoothness</definition>
+          <value>50</value>
+          <displayvalue>50</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="YesNo">
+          <definition>Glow</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Transparency</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Shininess</definition>
+          <value>128</value>
+          <displayvalue>128</displayvalue>
+        </parameter>
+        <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+          <definition>Comments</definition>
+          <value>Rendering+appearance+not+upgraded+</value>
+          <displayvalue>Rendering+appearance+not+upgraded+</displayvalue>
+        </parameter>
+      </parameters>
+    </material>
+    <material>
+      <meta>
+        <name>Wood%2c+Painted+White</name>
+      </meta>
+      <parameters>
+        <parameter category="PG_IDENTITY_DATA" unit_type="Text">
+          <definition>Comments</definition>
+          <value>Rendering+appearance+not+upgraded+</value>
+          <displayvalue>Rendering+appearance+not+upgraded+</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Transparency</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="YesNo">
+          <definition>Glow</definition>
+          <value>0</value>
+          <displayvalue>0</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Smoothness</definition>
+          <value>50</value>
+          <displayvalue>50</displayvalue>
+        </parameter>
+        <parameter category="PG_MATERIALS" unit_type="Integer">
+          <definition>Shininess</definition>
+          <value>128</value>
+          <displayvalue>128</displayvalue>
+        </parameter>
+      </parameters>
+    </material>
+  </materials>
+</platform>
